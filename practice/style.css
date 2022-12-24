@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 40px ;
+    margin-left: 30px;
+    font-family: 'TT Norms';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 40px;
+color: #222A46;
+}
+
+
+.container{
+    max-width: 900px;
+    height: 800px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.left{
+    width:450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+
+.paragraf {
+font-family: 'TT Norms';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #353949;
+}
+
+.text{
+font-family: 'TT Norms';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #505567;
+}
+
+.settings{
+
+}

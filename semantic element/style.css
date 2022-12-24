@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.frame{
+    width: 450px;
+    border: 10px solid darkgrey;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    margin: 15px auto;
+    gap: 5px;
+    padding: 3px;
+}
+
+header{
+  height: 70px;
+  margin: 2px;
+  border: 5px solid lightgreen;
+  border-radius: 3px;
+}
+
+nav{
+ height: 35px;
+ margin: 2px;
+ border: 5px solid pink;
+  border-radius: 3px;
+}
+article{
+    width: 280px;
+    margin: 2px;
+    border: 5px solid rgb(78, 78, 248);
+    border-radius: 3px;
+}
+
+.secondh{
+height: 35px;
+margin: 2px;
+    border: 5px solid lightgreen;
+    border-radius: 3px;
+
+}
+.section{
+    height: 35px;
+    margin: 200px 2px 2px 2px;
+        border: 5px solid rgb(242, 54, 242);
+        border-radius: 3px;
+
+}
+.section2{
+    height: 35px;
+    margin: 2px;
+        border: 5px solid rgb(242, 54, 242);
+        border-radius: 3px;
+}
+
+.footer1{
+height: 18px;
+margin: 2px;
+border: 5px solid yellow;
+border-radius: 3px;
+}
+
+.divframe{
+    width: 140px;
+    margin: 2px;
+    border: 5px solid rgb(247, 179, 51);
+    border-radius: 3px;
+}
+
+aside{
+height: 210px;
+margin: 2px;
+border: 5px solid aqua;
+border-radius: 3px;
+}
+
+.aside2{
+    height: 133px;
+    margin: 2px;
+    border: 5px solid aqua;
+    border-radius: 3px;
+}
+
+
+
+.midleframe{
+display: flex;
+flex-wrap: wrap;
+}
+footer{
+width: 540px;
+height: 35px;
+margin: 2px;
+border: 5px solid yellow;
+border-radius: 3px;
+}
+
+h3{
+margin: 2px;
+color: rgb(40, 38, 38);
+font-style: normal;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
